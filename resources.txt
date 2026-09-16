@@ -1,0 +1,5 @@
+R205|Quiet Study Room|Study Room|available
+L101|Dell Laptop 101|Laptop|available
+C014|Scientific Calculator|Calculator|available
+E310|Electronics Lab Kit|Lab Equipment|available
+T200|Math Tutoring Appointment|Tutoring|available
